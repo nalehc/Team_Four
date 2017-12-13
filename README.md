@@ -2,19 +2,19 @@
 
 This group of individuals is seeking to answer the question below:
 
-What is the relationship between restaurants' sustainability efforts and their performace?
+What is the relationship between the increase of minimum wage in San Francisco and crime and employment. 
 
 We will look at the factors below to measure performace:
 
-    - Ratings
+    - Crime in the city of San Francisco
 
-    - Price charged
-
-    - Diner sentiment in reation to sustainability
+    - Employment data for the city of San Francisco
 
 We will conduct this analysis using the resources below:
 
-    - Yelp API
+    - Department of Labor and Statistics
 
-    - Twitter API
+    - US Census Data
+
+    - SFPD Data
 
