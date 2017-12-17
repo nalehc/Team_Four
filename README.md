@@ -1,20 +1,22 @@
 # Team_Four
 
-This group of individuals is seeking to answer the question below:
+Team Four is looking for the answr to the question below:
 
-What is the relationship between the increase of minimum wage in San Francisco and crime and employment. 
+    What impact does raising the minimum wage in San Francisco have on Employment and Crime?
+    
+The data used was collected from the sources below:
 
-We will look at the factors below to measure performace:
+- US Department of Labor and Statistics
+- DataSF.org
 
-    - Crime in the city of San Francisco
+A presentation of the finding can be found here: https://docs.google.com/presentation/d/1lNLOTX4VBfvMaZcLSrgD3dhJjWeK5gA8a5QHBpqEq90/edit?usp=sharing
 
-    - Employment data for the city of San Francisco
+A video recording of the presentation can be viewed here:
 
-We will conduct this analysis using the resources below:
+Team Four are students of UCBerkeley Exension's Data Analytics Bootcamp:
 
-    - Department of Labor and Statistics
-
-    - US Census Data
-
-    - SFPD Data
-
+- Apoorva Anwekar
+- Albert Dolan
+- Chelan Patton
+- Stephen Tsoi-A-Sue
+- Tully Velte
