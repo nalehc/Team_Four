@@ -1,20 +1,21 @@
-# Team_Four
+Team_Four - AD/Branching
 
-This group of individuals is seeking to answer the question below:
+Team Four is looking for the answr to the question below:
 
-What is the relationship between restaurants' sustainability efforts and their performace?
 
-We will look at the factors below to measure performace:
+What impact does raising the minimum wage in San Francisco have on Employment and Crime?
+The data used was collected from the sources below:
 
-    - Ratings
+US Department of Labor and Statistics
+DataSF.org
+A presentation of the finding can be found here: https://docs.google.com/presentation/d/1lNLOTX4VBfvMaZcLSrgD3dhJjWeK5gA8a5QHBpqEq90/edit?usp=sharing
 
-    - Price charged
+A video recording of the presentation can be viewed here:
 
-    - Diner sentiment in reation to sustainability
+Team Four are students of UCBerkeley Exension's Data Analytics Bootcamp:
 
-We will conduct this analysis using the resources below:
-
-    - Yelp API
-
-    - Twitter API
-
+Apoorva Anwekar
+Albert Dolan
+Chelan Patton
+Stephen Tsoi-A-Sue
+Tully Velte
