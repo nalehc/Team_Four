@@ -12,6 +12,7 @@ The data used was collected from the sources below:
 A presentation of the finding can be found here: https://docs.google.com/presentation/d/1lNLOTX4VBfvMaZcLSrgD3dhJjWeK5gA8a5QHBpqEq90/edit?usp=sharing
 
 A video recording of the presentation can be viewed here:
+https://youtu.be/qk7VjnDG5bU
 
 Team Four are students of UCBerkeley Exension's Data Analytics Bootcamp:
 
